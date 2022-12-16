@@ -1,5 +1,6 @@
 pandas
 tensorflow
-shared_functions
 seaborn
-matplotlib.pyplot
+matplotlib
+numpy
+sklearn
