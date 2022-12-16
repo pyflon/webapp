@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from sklearn import metrics
+import sklearn
 
 def train_test_val(*arrays, val_size, test_size, verbose=True):
     '''
